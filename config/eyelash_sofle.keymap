@@ -86,7 +86,7 @@
 &bt BT_SEL 0  &bt BT_SEL 1    &bt BT_SEL 2    &bt BT_SEL 3  &bt BT_SEL 4    &mkp MB4         &mmv MOVE_DOWN       &kp PG_UP        &kp END          &kp UP      &kp HOME    &trans       &kp F12
 &trans      &bt BT_SEL 3  &bt BT_SEL 4    &trans           &trans           &mkp MB5           &mmv MOVE_LEFT       &kp PG_DN        &kp LEFT         &kp ENTER  &kp RIGHT  &kp SEMI   &kp APOS
 &trans      &rgb_ug RGB_OFF  &rgb_ug RGB_ON  &rgb_ug RGB_EFF  &rgb_ug RGB_EFR  &rgb_ug RGB_SPI    &mmv MOVE_RIGHT  &rgb_ug RGB_BRI  &rgb_ug RGB_BRD  &kp DOWN      &trans    &trans     &trans
-&kp C_MUTE  &trans           &trans          &trans           &trans           &trans             &mkp LCLK        &trans           &trans           &kp INSERT      &trans    &kp BSLH
+&kp C_MUTE  &trans           &trans          &trans           &mo 2           &trans             &mkp LCLK        &trans           &trans           &kp INSERT      &trans    &kp BSLH
             >;
 
             display-name = "layer1";
